@@ -1,4 +1,5 @@
-export default {
+export default {    //style of the map from tomtom website, lucas designed the style. 
+    //it is exported as a json object from the tomtom website, and then pasted here
     "version": 8,
     "name": "toxic",
     "metadata": {},
